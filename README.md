@@ -8,7 +8,6 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 - Smooth scrolling navigation
 - Animated skill bars
 - Mobile-friendly hamburger menu
-- Contact form with basic validation
 - Clean and modern UI
 
 ## Sections
@@ -17,7 +16,6 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 - **About**: Personal information and profile picture
 - **Skills**: Technical skills with progress bars
 - **Projects**: Showcase of projects
-- **Contact**: Contact form for inquiries
 
 ## How to Use
 
@@ -25,7 +23,7 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 2. Open `index.html` in your web browser
 3. Customize the content to match your profile
 4. Replace the placeholder image with your own photo
-5. Update the skills, projects, and contact information
+5. Update the skills, projects information
 
 ## Customization
 
